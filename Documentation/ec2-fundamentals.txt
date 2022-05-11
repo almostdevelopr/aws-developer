@@ -1,0 +1,5 @@
+1. Budget setup (not to exceed the free tier)
+2. Ec2 basics
+3. Instance console (ec2 connect cloud terminal/cli)
+4. Security groups
+5. SSH
